@@ -3,3 +3,6 @@
 .env
 
 __pycache__
+
+
+auth/google_api_credentials_happy_hiker.json
